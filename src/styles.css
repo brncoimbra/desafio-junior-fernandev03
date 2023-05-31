@@ -73,7 +73,7 @@ button {
 label {
   margin-bottom: 5px;
 }
-input:not([type='radio']),
+input:not([type="radio"]),
 select {
   height: 40px;
   width: 100%;
@@ -85,17 +85,18 @@ select {
   padding-left: 10px;
   font-family: Verdana;
   font-size: 14px;
-  color: #333;
+  color: #b9b9b9;
 }
 button {
   height: 40px;
   width: 100%;
   font-size: 16px;
-  color: #333;
+  color: #fff;
 }
 
 button:hover {
   background: #ddd;
+  color: #333;
   cursor: pointer;
 }
 button:active {
